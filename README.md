@@ -1,13 +1,17 @@
-# Data Science Journey
-Data science projects and practice focused on industrial, automation, and manufacturing datasets.
+# Data Science Journey – Shubham Masal
 
-This repository contains my data science learning and projects.
+This repository documents my learning and projects in Data Science.
 
-Focus areas:
-- Python for data science
-- Data analysis and visualization
+Background:
+I come from Robotics & Automation and am transitioning into Industrial Data Science.
+
+Contents:
+- Python fundamentals
+- Data analysis with Pandas
 - Statistics
 - Machine learning
-- Industrial and automation related datasets
+- GUVI coding practice
+- End-to-end data science projects
 
-Goal: Become an Industrial Data Scientist.
+Goal:
+To become an Industrial Data Scientist working on real-world machine and business data.
