@@ -28,3 +28,13 @@ print(C)
 #Code 2
 D, E = 5, 85
 print(D+E)
+
+
+# Global & Local Variable
+g = 1 # Global Variable
+def add_5():
+    h = 10
+    g = 100 # Local Variable
+    return h, g
+print(add_5())
+print(g)
